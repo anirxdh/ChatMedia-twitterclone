@@ -67,7 +67,7 @@ Challenge:
     if(tweetInput.value){
         tweetsData.unshift({
             handle: `@Anirxdh`,
-            profilePic: `images/ani.png`,
+            profilePic: `image/ani.png`,
             likes: 0,
             retweets: 0,
             tweetText: tweetInput.value,

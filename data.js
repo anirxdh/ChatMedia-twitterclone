@@ -1,13 +1,13 @@
 export const tweetsData = [   
     {
         handle: `@CEOofBigCompany 💎`,
-        profilePic: `images/troll.jpg`,
+        profilePic: `image/troll.jpg`,
         likes: 27,
         retweets: 10,
         tweetText: `The customers are very satisfied with our new design, and thanks to Anirxdh and his team for this great achievement`,
         replies: [                  {
                 handle: `@Anirxdh`,
-                profilePic: `images/ani.png`,
+                profilePic: `image/ani.png`,
                 tweetText: `Thank you so much , it wouldnt be possible without yout guidance`,
             },],
         isLiked: false,
@@ -16,19 +16,19 @@ export const tweetsData = [
     },    
     {
         handle: `@Elon ✅`,
-        profilePic: `images/musk.png`,
+        profilePic: `image/musk.png`,
         likes: 6500,
         retweets: 234,
         tweetText: `I need volunteers for a one-way mission to Mars 🪐. No experience necessary🚀`,
         replies: [
                   {
                 handle: `@TomCruise ✅`,
-                profilePic: `images/tcruise.png`,
+                profilePic: `image/tcruise.png`,
                 tweetText: `Yes! Sign me up! 😎🛩`,
             },
                   {
                 handle: `@ChuckNorris ✅`,
-                profilePic: `images/chucknorris.jpeg`,
+                profilePic: `image/chucknorris.jpeg`,
                 tweetText: `I went last year😴`,
             },
         ],
@@ -38,19 +38,19 @@ export const tweetsData = [
     },
         {
         handle: `@NoobCoder12`,
-        profilePic: `images/flower.png`,
+        profilePic: `image/flower.png`,
         likes: 10,
         retweets: 3,
         tweetText: `Are you a coder if you only know HTML?`,
         replies: [
             {
                 handle: `@StackOverflower ☣️`,
-                profilePic: `images/overflow.png`,
+                profilePic: `image/overflow.png`,
                 tweetText: `No. Obviosuly not. Go get a job in McDonald's.`,
             },
             {
                 handle: `@YummyCoder64`,
-                profilePic: `images/love.png`,
+                profilePic: `image/love.png`,
                 tweetText: `You are wonderful just as you are! ❤️`,
             },
         ],
